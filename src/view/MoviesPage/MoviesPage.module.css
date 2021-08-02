@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+}
+
+.searchForm {
+  margin-bottom: 20px;
+}
+
+.searchFormInput,
+button {
+  padding: 10px;
+  font-size: 24px;
+}
+
+.searchFormInput {
+  width: 200px;
+  margin-right: 10px;
+}

@@ -1,0 +1,8 @@
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item {
+  font-size: 40px;
+}

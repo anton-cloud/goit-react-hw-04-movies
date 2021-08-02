@@ -1,0 +1,16 @@
+.list {
+  margin-top: 30px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 200px;
+
+  margin: 5px;
+}
+
+.title {
+  margin-bottom: 5px;
+}
